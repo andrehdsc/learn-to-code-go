@@ -1,2 +1,4 @@
-github.com/andrehdsc/puppy v0.0.0-20250519190909-fcfadecdc0b9 h1:8g5EUe+noq4wfA/yMYeS+/p6JJZl5AvTxEm60LKw6Nc=
-github.com/andrehdsc/puppy v0.0.0-20250519190909-fcfadecdc0b9/go.mod h1:jwy64FV7oM+SZ6FsQzOdR0058M2YS5fG9Sk62K0q3DM=
+github.com/andrehdsc/dog v0.0.0-20250519192925-201381ffda9b h1:8CVjBJ/CEaNycr9P5Loel5/0bIFTFCN0SyaarG1SIvo=
+github.com/andrehdsc/dog v0.0.0-20250519192925-201381ffda9b/go.mod h1:KatV6T5m9jy91KB9vKMTr9wCidIMsXIlwDtKcq350mc=
+github.com/andrehdsc/puppy v0.0.0-20250519194113-87ba212b29fa h1:SkgQCJQdIrKh1OyH1n4vBlv5F8akt9KuHZSiZBX0k8s=
+github.com/andrehdsc/puppy v0.0.0-20250519194113-87ba212b29fa/go.mod h1:tGDomjmJCU2zocfdLIBoDynwzwaxXkJKtSnlBSl88BA=
