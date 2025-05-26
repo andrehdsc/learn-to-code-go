@@ -9,6 +9,7 @@ func main() {
 	for i := range 100 {
 		x := rand.Intn(10)
 		y := rand.Intn(10)
+		fmt.Println("Iteration: ", i)
 		fmt.Printf("The value of x: %v \nThe value of y: %v\n", x, y)
 
 		switch {
