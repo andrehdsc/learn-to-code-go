@@ -5,14 +5,10 @@ import (
 )
 
 func main() {
-	jlikes := []string{"shaken, not stirred", "martinis", "fast cars"}
-	mlikes := []string{"intelligence", "literature", "computer science"}
-	dlikes := []string{"cats", "ice cream", "sunset"}
-
 	m := make(map[string][]string)
-	m["james_bond"] = jlikes
-	m["moneypenny_jenny"] = mlikes
-	m["no_dr"] = dlikes
+	m["james_bond"] = []string{"shaken, not stirred", "martinis", "fast cars"}
+	m["moneypenny_jenny"] = []string{"intelligence", "literature", "computer science"}
+	m["no_dr"] = []string{"cats", "ice cream", "sunset"}
 
 	for kmap := range m {
 		fmt.Println(kmap)
