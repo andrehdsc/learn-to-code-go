@@ -10,3 +10,5 @@ func main() {
 	defer fmt.Println("third")  // this will run second-to-last
 	defer fmt.Println("second") // this will run third-to-last
 }
+
+// The DEFER keyword works in a "last in, first out" method.
