@@ -21,7 +21,7 @@ func main() {
 
 	bs, err := toJSON(p1)
 	if err != nil {
-		log.Fatal(err)		
+		log.Fatal(fmt.Errorf("Error Converting to JSON: %v\n", err))	
 	}
 
 	fmt.Println(string(bs))
